@@ -1,0 +1,17 @@
+{
+    "name": "samiu/error",
+    "autoload": {
+        "psr-4": {
+            "GSS\\Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sabbirsam",
+            "email": "samiubat14@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.13"
+    }
+}
